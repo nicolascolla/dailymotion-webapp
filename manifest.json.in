@@ -1,0 +1,15 @@
+{
+    "name": "dailymotionweb.collaproductions",
+    "description": "Unofficial Dailymotion web app",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Dailymotion",
+    "hooks": {
+        "dailymotionweb": {
+            "apparmor": "dailymotionweb.apparmor",
+            "desktop":  "dailymotionweb.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Nicolás Colla <nicolascolla@mail.ru>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Dailymotion
+Exec=qmlscene %U qml/Main.qml --scaling --software
+Icon=assets/logo.png
+X-Ubuntu-Splash-Color=#ffffff
+X-Ubuntu-Splash-Image=assets/logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

@@ -4,6 +4,7 @@
 Simple webapp container providing a shortcut to dailymotion.com.
 
 [![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/dailymotionweb.collaproductions)
+[![](https://i.imgur.com/KIipzE8.png)](https://t.me/collaproductions)
 
 ### Building instructions (Ubuntu-based distros)
 
